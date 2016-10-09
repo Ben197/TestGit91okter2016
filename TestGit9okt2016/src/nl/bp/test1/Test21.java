@@ -10,6 +10,7 @@ public class Test21 {
 		System.out.println("wijziging 2");
 		System.out.println("wijziging 4a");
 		System.out.println("wijziging 5a");
+		System.out.println("wijziging 6a");
 
 	}
 
