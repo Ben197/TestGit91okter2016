@@ -8,7 +8,7 @@ public class Test21 {
 		System.out.println("wijziging 1");
 		System.out.println("Uitkomst: " + hf.testDezeFile(1, 3));
 		System.out.println("wijziging 2");
-		System.out.println("wijziging 4");
+		System.out.println("wijziging 4a");
 
 	}
 
